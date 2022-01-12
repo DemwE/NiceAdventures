@@ -43,3 +43,20 @@ The beginning with this mod will certainly not be the easiest one, so we summari
 2.After collecting the stone pieces, you will be able to craft a stone.
 ![2022-01-12_16 10 34](https://user-images.githubusercontent.com/91313779/149166944-0843dd23-b882-4c9c-b51d-4515867881bd.png)
 3.You'll have to figure out what to do next. :)
+
+
+# How to use modpack?
+
+1. Download *CurseForge* (from link - https://download.curseforge.com)
+2. If you finish download *CurseForge* and click "**Create Custom Profile**"
+
+
+![image](https://user-images.githubusercontent.com/91313779/145373512-feaec68b-6494-45bb-953a-4193b8893147.png)
+
+3. Now click "**Import**"
+
+![image](https://user-images.githubusercontent.com/91313779/145373698-979e2f2b-8660-4c89-926a-ac9b32b3a626.png)
+
+4. The next step choose **NiceAdventures.zip**
+5. Wait for it to download all mods and you can play :)
+
